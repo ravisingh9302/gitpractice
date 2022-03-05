@@ -3,3 +3,6 @@ ravi.txt
 ffff.txt
 kkkk.docx
 fo/
+to ignore all folder of such name.
+/fo/
+to ignore only outer folder
